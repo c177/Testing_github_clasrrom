@@ -1,2 +1,2 @@
-# Testing_github_clasrrom
+# Testing_github_classrom
 Testing GitHub classrom
